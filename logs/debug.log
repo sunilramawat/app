@@ -1,0 +1,2900 @@
+2017-04-18 09:42:15 Notice: Notice (8): Undefined variable: postReport in [/opt/lampp/htdocs/youfeed/src/Template/Admin/PostCommentReports/index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/PostCommentReports/index.ctp, line 36
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-18 09:42:15 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/youfeed/src/Template/Admin/PostCommentReports/index.ctp, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/PostCommentReports/index.ctp, line 36
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-18 09:46:06 Notice: Notice (8): Undefined index: user_status in [/opt/lampp/htdocs/youfeed/src/Controller/AppController.php, line 256]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\AppController::checkUserStatus() - APP/Controller/AppController.php, line 256
+App\Controller\Admin\UsersController::login() - APP/Controller/Admin/UsersController.php, line 460
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-18 09:46:14 Notice: Notice (8): Undefined index: user_status in [/opt/lampp/htdocs/youfeed/src/Controller/AppController.php, line 256]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\AppController::checkUserStatus() - APP/Controller/AppController.php, line 256
+App\Controller\Admin\UsersController::login() - APP/Controller/Admin/UsersController.php, line 460
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-18 09:47:49 Notice: Notice (8): Undefined index: user_status in [/opt/lampp/htdocs/youfeed/src/Controller/AppController.php, line 256]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\AppController::checkUserStatus() - APP/Controller/AppController.php, line 256
+App\Controller\Admin\UsersController::login() - APP/Controller/Admin/UsersController.php, line 460
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 06:42:18 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 299]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::change_status() - APP/Controller/Admin/UsersController.php, line 299
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 06:52:30 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 06:52:30 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 06:52:30 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:36:13 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:36:13 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:36:13 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:36:55 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:36:55 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:36:55 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:51:04 Notice: Notice (8): Undefined index: user_status in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 71]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::index() - APP/Controller/Admin/CategoriesController.php, line 71
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:52:39 Notice: Notice (8): Undefined index: user_status in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 71]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::index() - APP/Controller/Admin/CategoriesController.php, line 71
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:57:22 Notice: Notice (8): Undefined index: c_id in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::change_status() - APP/Controller/Admin/CategoriesController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:57:28 Notice: Notice (8): Undefined index: c_id in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::change_status() - APP/Controller/Admin/CategoriesController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 07:58:07 Notice: Notice (8): Undefined index: c_id in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::change_status() - APP/Controller/Admin/CategoriesController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:00:06 Notice: Notice (8): Undefined index: c_id in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 186]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::delete_row() - APP/Controller/Admin/CategoriesController.php, line 186
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:00:18 Notice: Notice (8): Undefined index: c_id in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 186]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::delete_row() - APP/Controller/Admin/CategoriesController.php, line 186
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:00:45 Notice: Notice (8): Undefined index: c_id in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/CategoriesController.php, line 186]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\CategoriesController::delete_row() - APP/Controller/Admin/CategoriesController.php, line 186
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:09 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:09 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:09 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:43 Notice: Notice (8): Undefined variable: page in [/opt/lampp/htdocs/youfeed/src/Template/Admin/Categories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/Categories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:43 Notice: Notice (8): Undefined variable: page in [/opt/lampp/htdocs/youfeed/src/Template/Admin/Categories/add.ctp, line 104]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/Categories/add.ctp, line 104
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:43 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:43 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:22:43 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:23:23 Notice: Notice (8): Undefined variable: page in [/opt/lampp/htdocs/youfeed/src/Template/Admin/Categories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/Categories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:23:23 Notice: Notice (8): Undefined variable: page in [/opt/lampp/htdocs/youfeed/src/Template/Admin/Categories/add.ctp, line 104]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/Categories/add.ctp, line 104
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:24:09 Notice: Notice (8): Undefined variable: page in [/opt/lampp/htdocs/youfeed/src/Template/Admin/Categories/add.ctp, line 104]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/Categories/add.ctp, line 104
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:28:27 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:28:27 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 08:28:27 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:05:51 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:05:51 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:05:51 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:06:11 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:06:11 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:06:11 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:15:25 Notice: Notice (8): Undefined variable: Categories in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/SubCategoriesController.php, line 53]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\SubCategoriesController::index() - APP/Controller/Admin/SubCategoriesController.php, line 53
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:15:35 Notice: Notice (8): Undefined variable: Categories in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/SubCategoriesController.php, line 53]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\SubCategoriesController::index() - APP/Controller/Admin/SubCategoriesController.php, line 53
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:18:49 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:18:49 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:18:49 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:34:24 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:35:43 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:35:56 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:36:07 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:37:23 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:38:05 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:38:19 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:39:39 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 9]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:40:09 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:40:27 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:41:20 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:42:52 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:44:27 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:44:33 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:45:29 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:45:29 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:45:29 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:46:45 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:46:45 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:46:45 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:58:09 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:58:09 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:58:09 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:59:58 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:59:58 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 09:59:58 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:00:13 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:00:13 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:00:13 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:15:27 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:15:27 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:15:27 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:19:38 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:19:38 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:19:38 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:21:23 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:21:23 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:21:23 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:26:07 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:26:07 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:26:07 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:38:25 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:38:25 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:38:25 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:38:45 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:38:45 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:38:45 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:39:38 Notice: Notice (8): Undefined variable: category in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/add.ctp, line 10]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/add.ctp, line 10
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:46:24 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:46:24 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:46:24 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:46:34 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:46:34 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:46:34 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:48:31 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:48:31 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:48:31 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:49:43 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:49:43 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:49:43 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:50:03 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:50:03 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 10:50:03 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 11:07:46 Notice: Notice (8): Undefined variable: id in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/index.ctp, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/index.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 11:07:54 Notice: Notice (8): Undefined variable: id in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/index.ctp, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/index.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 11:10:48 Notice: Notice (8): Undefined variable: id in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/index.ctp, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/index.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 11:11:06 Notice: Notice (8): Undefined variable: id in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/index.ctp, line 32]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/index.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 11:14:32 Notice: Notice (8): Undefined variable: id in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/index.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/index.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 11:15:16 Notice: Notice (8): Undefined offset: 0 in [/opt/lampp/htdocs/youfeed/src/Template/Admin/SubCategories/index.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Admin/SubCategories/index.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::render() - CORE/src/View/View.php, line 587
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 12:32:36 Notice: Notice (8): Undefined index: country_code in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 111]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::register() - APP/Controller/ApiController.php, line 111
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 12:32:36 Notice: Notice (8): Undefined index: country_code in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 119]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::register() - APP/Controller/ApiController.php, line 119
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 12:32:52 Notice: Notice (8): Undefined index: country_code in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::register() - APP/Controller/ApiController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 12:37:41 Notice: Notice (8): Undefined index: fisrt_name in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 108]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::register() - APP/Controller/ApiController.php, line 108
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 13:03:40 Notice: Notice (8): Undefined index: fb_id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 77]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::register() - APP/Controller/ApiController.php, line 77
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-19 13:04:23 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 86]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::register() - APP/Controller/ApiController.php, line 86
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:43 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:43 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:43 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:43 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:53 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:53 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:53 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 07:00:53 Notice: Notice (8): Undefined index: phone in [/opt/lampp/htdocs/youfeed/src/Controller/Admin/UsersController.php, line 271]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\Admin\UsersController::index() - APP/Controller/Admin/UsersController.php, line 271
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 08:59:47 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Layout/admin.ctp, line 27]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Layout/admin.ctp, line 27
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 08:59:47 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 08:59:47 Notice: Notice (8): Undefined variable: title_for_layout in [/opt/lampp/htdocs/youfeed/src/Template/Element/admin/header_heading.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+include - APP/Template/Element/admin/header_heading.ctp, line 18
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::_renderElement() - CORE/src/View/View.php, line 1329
+Cake\View\View::element() - CORE/src/View/View.php, line 493
+include - APP/Template/Layout/admin.ctp, line 95
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 992
+Cake\View\View::_render() - CORE/src/View/View.php, line 952
+Cake\View\View::renderLayout() - CORE/src/View/View.php, line 633
+Cake\View\View::render() - CORE/src/View/View.php, line 592
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-20 13:08:10 Notice: Notice (8): Undefined index: is_social in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 283]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::login() - APP/Controller/ApiController.php, line 283
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-21 04:12:31 Notice: Notice (8): Undefined index: password in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 298]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::login() - APP/Controller/ApiController.php, line 298
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-21 06:08:06 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 589]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::changePassword() - APP/Controller/ApiController.php, line 589
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-21 06:08:37 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 589]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::changePassword() - APP/Controller/ApiController.php, line 589
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-21 06:08:37 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 594]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::changePassword() - APP/Controller/ApiController.php, line 594
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-21 06:08:37 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 594]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::changePassword() - APP/Controller/ApiController.php, line 594
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-04-25 09:58:18 Notice: Notice (8): Undefined index: password in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 291]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::login() - APP/Controller/ApiController.php, line 291
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:40 Notice: Notice (8): Undefined variable: stripe_secret_key in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3040]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3040
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:40 Notice: Notice (8): Undefined variable: stripe_amount in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3043]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3043
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:40 Notice: Notice (8): Undefined variable: paymentDetail in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3044]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3044
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:40 Notice: Notice (8): Undefined variable: stripeToken in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3045]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3045
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:40 Notice: Notice (8): Undefined variable: name in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3046]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3046
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:48 Notice: Notice (8): Undefined variable: stripe_secret_key in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3040]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3040
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:48 Notice: Notice (8): Undefined variable: stripe_amount in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3043]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3043
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:48 Notice: Notice (8): Undefined variable: paymentDetail in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3044]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3044
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:48 Notice: Notice (8): Undefined variable: stripeToken in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3045]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3045
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:48:48 Notice: Notice (8): Undefined variable: name in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3046]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3046
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:49:44 Notice: Notice (8): Undefined variable: stripe_amount in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3043]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3043
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:49:44 Notice: Notice (8): Undefined variable: paymentDetail in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3044]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3044
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:49:44 Notice: Notice (8): Undefined variable: stripeToken in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3045]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3045
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:49:44 Notice: Notice (8): Undefined variable: name in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3046]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3046
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:51:13 Notice: Notice (8): Undefined variable: stripe_amount in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3043]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3043
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:51:13 Notice: Notice (8): Undefined variable: paymentDetail in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3044]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3044
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:51:13 Notice: Notice (8): Undefined variable: stripeToken in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3045]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3045
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 07:51:13 Notice: Notice (8): Undefined variable: name in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3046]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::payment() - APP/Controller/ApiController.php, line 3046
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 12:31:20 Notice: Notice (8): Undefined variable: e in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3050]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::card() - APP/Controller/ApiController.php, line 3050
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 12:32:50 Notice: Notice (8): Undefined variable: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3050]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::card() - APP/Controller/ApiController.php, line 3050
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 12:33:29 Notice: Notice (8): Undefined variable: body in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3051]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::card() - APP/Controller/ApiController.php, line 3051
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-05 12:34:11 Notice: Notice (8): Undefined variable: body in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3051]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::card() - APP/Controller/ApiController.php, line 3051
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 11:37:39 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3226]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3226
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:14:22 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3226]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3226
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:15:02 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3226]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3226
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:25:09 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3226]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3226
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:35:59 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3227]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3227
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:36:14 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3227]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3227
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:37:08 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3227]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3227
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:43:10 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3227]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3227
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:53:17 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3234]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3234
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 12:53:40 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3236]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3236
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 13:00:58 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3235]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3235
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 13:05:33 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3235]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3235
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-17 13:07:58 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3236]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3236
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-18 12:46:38 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3343]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3343
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-18 12:48:19 Notice: Notice (8): Undefined variable: card in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3259]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3259
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-22 09:09:13 Notice: Notice (8): Array to string conversion in [/opt/lampp/htdocs/youfeed/vendor/paypal/rest-api-sdk-php/lib/PayPal/Cache/AuthorizationCache.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+PayPal\Cache\AuthorizationCache::push() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Cache/AuthorizationCache.php, line 58
+PayPal\Auth\OAuthTokenCredential::getAccessToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 161
+PayPal\Handler\RestHandler::handle() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Handler/RestHandler.php, line 82
+PayPal\Transport\PayPalRestCall::execute() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Transport/PayPalRestCall.php, line 70
+PayPal\Common\PayPalResourceModel::executeCall() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/PayPalResourceModel.php, line 102
+PayPal\Api\CreditCard::create() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditCard.php, line 443
+require_once - ROOT/vendor/paypal/rest-api-sdk-php/sample/vault/CreateCreditCard.php, line 46
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3260
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-22 09:22:16 Notice: Notice (8): Undefined variable: loggingLevels in [/opt/lampp/htdocs/youfeed/vendor/paypal/rest-api-sdk-php/lib/PayPal/Log/PayPalLogger.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+PayPal\Log\PayPalLogger::log() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Log/PayPalLogger.php, line 80
+Psr\Log\AbstractLogger::info() - ROOT/vendor/psr/log/Psr/Log/AbstractLogger.php, line 106
+PayPal\Core\PayPalLoggingManager::info() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalLoggingManager.php, line 93
+PayPal\Core\PayPalHttpConnection::execute() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalHttpConnection.php, line 68
+PayPal\Auth\OAuthTokenCredential::getToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 241
+PayPal\Auth\OAuthTokenCredential::generateAccessToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 266
+PayPal\Auth\OAuthTokenCredential::updateAccessToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 210
+PayPal\Auth\OAuthTokenCredential::getAccessToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 160
+PayPal\Handler\RestHandler::handle() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Handler/RestHandler.php, line 82
+PayPal\Transport\PayPalRestCall::execute() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Transport/PayPalRestCall.php, line 70
+PayPal\Common\PayPalResourceModel::executeCall() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/PayPalResourceModel.php, line 102
+PayPal\Api\CreditCard::create() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditCard.php, line 443
+require_once - ROOT/vendor/paypal/rest-api-sdk-php/sample/vault/CreateCreditCard.php, line 46
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3260
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-22 09:22:26 Notice: Notice (8): Undefined variable: loggingLevel in [/opt/lampp/htdocs/youfeed/vendor/paypal/rest-api-sdk-php/lib/PayPal/Log/PayPalLogger.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+PayPal\Log\PayPalLogger::log() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Log/PayPalLogger.php, line 80
+Psr\Log\AbstractLogger::info() - ROOT/vendor/psr/log/Psr/Log/AbstractLogger.php, line 106
+PayPal\Core\PayPalLoggingManager::info() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalLoggingManager.php, line 93
+PayPal\Core\PayPalHttpConnection::execute() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Core/PayPalHttpConnection.php, line 68
+PayPal\Auth\OAuthTokenCredential::getToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 241
+PayPal\Auth\OAuthTokenCredential::generateAccessToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 266
+PayPal\Auth\OAuthTokenCredential::updateAccessToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 210
+PayPal\Auth\OAuthTokenCredential::getAccessToken() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Auth/OAuthTokenCredential.php, line 160
+PayPal\Handler\RestHandler::handle() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Handler/RestHandler.php, line 82
+PayPal\Transport\PayPalRestCall::execute() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Transport/PayPalRestCall.php, line 70
+PayPal\Common\PayPalResourceModel::executeCall() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Common/PayPalResourceModel.php, line 102
+PayPal\Api\CreditCard::create() - ROOT/vendor/paypal/rest-api-sdk-php/lib/PayPal/Api/CreditCard.php, line 443
+require_once - ROOT/vendor/paypal/rest-api-sdk-php/sample/vault/CreateCreditCard.php, line 46
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3260
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-22 09:45:32 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3242]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::valutcreate() - APP/Controller/ApiController.php, line 3242
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-22 10:12:23 Notice: Notice (8): Undefined variable: apiContext in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3259]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3259
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-22 10:12:39 Notice: Notice (8): Object of class PayPal\Rest\ApiContext to string conversion in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3259]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3259
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-05-22 10:12:39 Notice: Notice (8): Undefined variable: Object in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 3259]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::cardPayment() - APP/Controller/ApiController.php, line 3259
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:06:49 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 735]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 735
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:08:10 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 734]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 734
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:11:23 Notice: Notice (8): Undefined variable: request in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 730]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 730
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:12:56 Notice: Notice (8): Undefined variable: request in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 731]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 731
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:19:34 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 737]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 737
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:21:33 Notice: Notice (8): Undefined variable: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 735]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 735
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:31:04 Notice: Notice (8): Undefined variable: request in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 46]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::initialize() - APP/Controller/ApiController.php, line 46
+Cake\Controller\Controller::__construct() - CORE/src/Controller/Controller.php, line 262
+ReflectionClass::newInstance() - [internal], line ??
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 100
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 51
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:31:04 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 46]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::initialize() - APP/Controller/ApiController.php, line 46
+Cake\Controller\Controller::__construct() - CORE/src/Controller/Controller.php, line 262
+ReflectionClass::newInstance() - [internal], line ??
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 100
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 51
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:36:41 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 735]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 735
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:37:01 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 736]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 736
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:37:12 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 736]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 736
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:37:30 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 736]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 736
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:38:12 Notice: Notice (8): Undefined index: id in [/opt/lampp/htdocs/youfeed/src/Controller/ApiController.php, line 736]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\ApiController::profile() - APP/Controller/ApiController.php, line 736
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE/src/Routing/Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 87
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-06-09 05:40:10 Notice: Notice (8): Undefined index: access_token in [/opt/lampp/htdocs/youfeed/src/Controller/AppController.php, line 172]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+App\Controller\AppController::user_access() - APP/Controller/AppController.php, line 172
+App\Controller\ApiController::initialize() - APP/Controller/ApiController.php, line 47
+Cake\Controller\Controller::__construct() - CORE/src/Controller/Controller.php, line 262
+ReflectionClass::newInstance() - [internal], line ??
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 100
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE/src/Routing/Filter/ControllerFactoryFilter.php, line 51
+Cake\Routing\DispatcherFilter::handle() - CORE/src/Routing/DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE/src/Event/EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE/src/Event/EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE/src/Event/EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE/src/Routing/Dispatcher.php, line 62
+[main] - ROOT/webroot/index.php, line 37
+
+
+

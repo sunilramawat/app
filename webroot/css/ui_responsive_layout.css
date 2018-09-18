@@ -1,0 +1,349 @@
+@media (min-width : 1024px) and (max-width : 1200px){
+.customecenteriphone{
+	margin-top: 7%;
+}
+.keyscreenshortdetailpart{
+	margin-right: 50px;
+}
+.mobilescreenshortstextitle{
+	font-size: 40px;
+}
+}
+
+@media (min-width : 768px) and (max-width : 1023px){
+.customeheaderlogoside {
+    float: left;
+    width: 28%;
+}
+.customeheadermenuside {
+    float: right;
+    height: 100px;
+    padding: 20px 0 !important;
+    width: 72%;
+}
+.customenavebar-menuoptions li a {
+    color: #ffffff !important;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+.bannertitles{
+	font-size: 50px;
+}
+.bannertitles span{
+	font-size: 50px;
+}
+.bannerdescriptiontext {
+    color: #ffffff;
+    float: left;
+    font-family: "Avenir Next LT Pro";
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 30px;
+    width: 100%;
+ }
+.bannerappstorebtn{
+	margin-right: 4px;
+    min-width: 198px;
+}
+.bannergoogleplaybtn{
+	margin-left: 4px;
+    min-width: 198px;
+}
+.keyappbackgroundbanner{
+	height: 682px;
+}
+.bannerrightiphon img{
+	top: 15px;
+	right: 0px;
+}
+.bannerheadertitles{
+	margin-top: 45px;
+}
+.customecenteriphone{
+	margin-top: 20%;
+}
+.keyscreenshortsliderpart{
+	width: 45%;
+}
+.keyscreenshortdetailpart{
+	width: 45%;
+	margin-right: 22px;
+}
+.mobilescreenshortstextitle{
+	font-size: 40px;
+}
+
+.contact-contcover .contactus-boxsocial:nth-child(2) {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.downloadtheapplinks .bannergoogleplaybtn {
+    padding: 0px;
+    margin: 0px 5px 0px 0px;
+}
+.bannergoogleplaybtn .downloadapplinks{
+	padding-left: 50px;
+	width: 99%;
+}
+
+
+
+
+}
+
+@media only screen and (max-width : 767px) {
+.customeheaderlogoside {
+    float: left;
+    width: 100%;
+}
+.customeheaderlogoside .navbar-brand img {
+	width:50%;
+}
+.customeheadermenuside{
+	height: auto;
+	width: 100%;
+}
+.customenavebar-menuoptions {
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+.customenavebar-menu .navbar-brand {
+    height: auto;
+}
+.bannerheadertitles {
+	margin-top: 10px;
+}
+.bannertitles{
+	font-size: 35px;
+	text-align: center;
+}
+.bannertitles span{
+	font-size: 50px;
+	text-align: center;
+}
+.bannerdescriptiontext{
+	text-align: center;
+	line-height: 35px;
+}
+.downloadtheapplinks{
+	text-align: center;
+}
+.bannerappstorebtn{
+	display: inline-block;
+    float: none;
+    margin: 0px 0px 15px 0px;
+}
+.bannergoogleplaybtn{
+	display: inline-block;
+    float: none;
+    margin: 0px 0px 15px 0px;
+}
+.keyappbackgroundbanner{
+	height: auto;
+}
+.bannerrightiphon img {
+    position: relative;
+    right: 0;
+    margin: 0 auto;
+    top: 100px;
+}
+.keyapplogo {
+    border-radius: 20px;
+    width: 30%;
+}
+.promotiontitel{
+	margin-top: 25px;
+}
+.promotiontiteltext{
+	font-size: 45px;
+	line-height: 50px;
+}
+/*.webscreenshortslider{
+	display: none;
+}
+.responsivescreenshortslider{
+	float: left;
+	width: 100%;
+	display: block;
+}*/
+.keyscreenshortdetailpart{
+	float: left;
+	margin: 0px 15px; 
+	width: 90%;
+}
+#mobilescreenshortstext .owl-item {
+    margin-top: 20px;
+    width: 100%;
+    margin: 0px;
+}
+.mobilescreenshortstextitle{
+	font-size: 35px;
+	text-align: center;
+}
+.mobilescreenshortstextdetail{
+	font-size: 18px;
+	text-align: center;
+	margin: 20px 0px;
+}
+.owl-controls{
+	text-align: center;
+}
+.owl-dots{
+	display: inline-block;
+	float: none;
+}
+.keyscreenshortsliderpart{
+	width: 100%;
+}
+.keyscreenshortsmobile{
+	right: 0px;
+	top: 0px;
+	width:81%;
+	margin: 0 auto;
+}
+#mobilescreenshortsimg .owl-item{
+	margin-top: 88px;
+}
+#mobilescreenshortsimg .item img{
+	max-width: 90% !important;
+}
+#mobilescreenshortsimg{
+	margin: 0 auto;
+	width: 40%;
+}
+.keyscreenshortsbackground{
+	height: auto;
+}
+.keyscreenshortsliderpart{
+	min-height: 450px;
+}
+.customecenteriphone{
+	margin-top: 60px;
+}
+.applephonesliderbackground{
+	display: block;
+}
+.keyscreenshortsliderpart{
+	display: none;
+}
+.applephonesliderbackground {
+    background: rgba(0, 0, 0, 0) url("../storage/images/apple.png") no-repeat scroll 0 0;
+    height: 366px;
+    padding: 3px;
+    display: inline-block;
+    float: none;
+    right: 22px;
+    top: 14px;
+    width: 183px;
+    z-index: 999;
+    margin: 30px 0px;
+}
+.img-responsive.responsivesliderimg {
+    left: 6px;
+    position: relative;
+    top: 37px;
+    width: 93% !important;
+}
+.iphonesliderformobile{
+	display: block;
+}
+.iphonesliderformobile{
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.footermenus ul li{
+	 margin: 0 8px;
+}
+.footermenus ul li a{
+	font-size: 12px;
+}
+
+.aboutus-picscover .aboutus-picscover-img:first-child{	
+	margin-right: 30px;
+}
+
+.contactus-boxsocial{
+	width: 100%;
+}
+.contact-contcover .contactus-boxsocial:nth-child(2) {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.bannersubdescriptiontext{
+	font-size: 20px;
+	text-align: center;
+}
+.mainmenu-inner .customenavebar-menu .navbar-brand {
+    height: auto;
+    padding: 15px;
+}
+.contact-contcover{
+	margin: 90px 0px;
+}
+.downloadtheapplinks .bannergoogleplaybtn {
+	margin-right: 0px;
+}
+.downloadbtnsinwhite .bannergoogleplaybtn{
+	margin-right: 0px;
+}
+}
+
+@media only screen and (max-width : 479px) {
+.login-boxcoverinner{
+	width: 100%;
+}
+.login-mainheading{
+	margin-top: 20px;
+}
+
+.aboutus-picscover .aboutus-picscover-img:first-child{	
+	margin-right: 0;
+	margin-bottom: 20px;
+}
+
+.contactus-boxsocial{
+	width: 100%;
+}
+.contact-contcover .contactus-boxsocial:nth-child(2) {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+}
+
+@media only screen and (max-width : 360px) {
+.bannerrightiphon img{
+	margin: 0 auto;
+    position: relative;
+    right: 0;
+    top: 91px;
+}
+.footermenus ul li{
+	 margin: 0 20px;
+}
+.footermenus ul li a{
+	font-size: 14px;
+    line-height: 30px;
+}
+}
+
+@media only screen and (max-width : 320px) {
+.bannerrightiphon img{
+	margin: 0 auto;
+    position: relative;
+    right: 0;
+    top: 80px;
+}
+.footermenus ul li{
+	 margin: 0 14px;
+}
+.footermenus ul li a{
+	line-height: 30px;
+}
+}

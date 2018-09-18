@@ -1,0 +1,196 @@
+2017-04-19 07:22:53 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 184
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 102
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 07:22:53 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 134
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 105
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 07:29:53 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 184
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 102
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 07:29:53 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 134
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 105
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 07:30:13 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 184
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 102
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 07:30:13 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 134
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 105
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:51:06 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 184
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 102
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:51:06 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 134
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 105
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:51:24 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 184
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 102
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:51:24 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 134
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 105
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:51:52 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 184
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 102
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:51:52 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 134
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 105
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:52:10 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::read() - CORE/src/Cache/Engine/FileEngine.php, line 184
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 102
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+
+2017-04-19 11:52:10 Warning: Warning (512): SplFileInfo::openFile(/opt/lampp/htdocs/youfeed/tmp/cache/persistent/myapp_cake_core_translations_default_en__u_s): failed to open stream: Permission denied in [/opt/lampp/htdocs/youfeed/vendor/cakephp/cakephp/src/Cache/Engine/FileEngine.php, line 395]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 147
+Cake\Cache\Engine\FileEngine::_setKey() - CORE/src/Cache/Engine/FileEngine.php, line 395
+Cake\Cache\Engine\FileEngine::write() - CORE/src/Cache/Engine/FileEngine.php, line 134
+Cake\I18n\TranslatorRegistry::get() - CORE/src/I18n/TranslatorRegistry.php, line 105
+Cake\I18n\I18n::translator() - CORE/src/I18n/I18n.php, line 144
+__ - CORE/src/I18n/functions.php, line 33
+require - ROOT/config/custom_config.php, line 9
+include - ROOT/config/bootstrap.php, line 216
+[main] - ROOT/bin/cake.php, line 31
+
+
+

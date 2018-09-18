@@ -1,0 +1,982 @@
+@font-face {
+	font-family: 'Avenir Next LT Pro Demi';
+	src: url('../fonts/AvenirNextLTPro-Demi.eot');
+	src: url('../fonts/AvenirNextLTPro-Demi.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNextLTPro-Demi.woff') format('woff'),
+		url('../fonts/AvenirNextLTPro-Demi.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next LT Pro';
+	src: url('../fonts/AvenirNextLTPro-Thin.eot');
+	src: url('../fonts/AvenirNextLTPro-Thin.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNextLTPro-Thin.woff') format('woff'),
+		url('../fonts/AvenirNextLTPro-Thin.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next LT Pro';
+	src: url('../fonts/AvenirNextLTPro-Regular.eot');
+	src: url('../fonts/AvenirNextLTPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNextLTPro-Regular.woff') format('woff'),
+		url('../fonts/AvenirNextLTPro-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next LT Pro';
+	src: url('../fonts/AvenirNextLTPro-Ultralight.eot');
+	src: url('../fonts/AvenirNextLTPro-Ultralight.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNextLTPro-Ultralight.woff') format('woff'),
+		url('../fonts/AvenirNextLTPro-Ultralight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Avenir Next LT Pro';
+	src: url('../fonts/AvenirNextLTPro-Medium.eot');
+	src: url('../fonts/AvenirNextLTPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNextLTPro-Medium.woff') format('woff'),
+		url('../fonts/AvenirNextLTPro-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next LT Pro';
+	src: url('../fonts/AvenirNextLTPro-Light.eot');
+	src: url('../fonts/AvenirNextLTPro-Light.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNextLTPro-Light.woff') format('woff'),
+		url('../fonts/AvenirNextLTPro-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Avenir Next LT Pro';
+	src: url('../fonts/AvenirNextLTPro-Bold.eot');
+	src: url('../fonts/AvenirNextLTPro-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirNextLTPro-Bold.woff') format('woff'),
+		url('../fonts/AvenirNextLTPro-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../fonts/Montserrat-Bold.eot');
+	src: url('../fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Montserrat-Bold.woff') format('woff'),
+		url('../fonts/Montserrat-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Raleway';
+	src: url('../fonts/Raleway-Bold.eot');
+	src: url('../fonts/Raleway-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Raleway-Bold.woff') format('woff'),
+		url('../fonts/Raleway-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+.errorMessage{
+
+	padding: 24px 38px 1px;
+	color: rgb(253, 4, 4);
+}
+@media (min-width : 1200px){
+.container{
+	width: 1200px;
+}	
+}
+
+.customeheaderlogoside{
+	float: left;
+	width: 35%;
+}
+.customeheadermenuside{
+	float: right;
+    height: 100px;
+    padding: 25px 0 !important;
+    width: 65%;
+}
+.customenavebar-menu{
+	background-color: transparent;
+	border-color: transparent;
+	border:medium none;
+	margin-top: 20px;
+}
+.customenavebar-menu .navbar-brand{
+	height: 100px;
+	padding-left: 0;
+}
+.keyappbackgroundbanner{
+	background: url(../storage/images/key-banner-image.jpg) no-repeat 50% 50%;
+	background-size:cover;
+	height: 900px;
+	width: 100%;
+	position: relative;
+}
+.customenavebar-menuoptions{
+	float: right;
+}
+.customenavebar-menuoptions li a{
+	font-size: 14px;
+	color: #ffffff !important;
+	text-transform: uppercase;
+}
+.customenavebar-menuoptions > li > a:hover, .customenavebar-menuoptions > li > a:focus {
+    background-color: transparent;
+    color: #ffffff !important;
+}
+.customeheaderlogoside .navbar-brand img{
+	position: relative;
+	top: 5px;
+}
+.bannerheadertitles{
+	float: left;
+	width: 100%;
+	margin-top: 100px;
+}
+
+
+.bannertitles{
+	float: left;
+	width: 100%;
+	font-size: 66px;
+	color: #ffffff;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 100;
+}
+
+.bannertitles span{
+	float: left;
+	width: 100%;
+	font-size: 66px;
+	color: #ffffff;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: bold;
+	
+}
+.bannerdescription{
+	float: left;
+    margin-top: 15px;
+    width: 100%;
+}
+.bannerdescriptiontext{
+	float: left;
+	width: 100%;
+	font-size: 20px;
+	line-height: 38px;
+	color: #ffffff;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 300;
+}
+.bannerappstorebtn{
+	float: left;
+	min-width: 230px;
+	height: 70px;
+	border:medium none;
+	background:#ffffff;
+	color: #000000;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	margin-right: 20px;
+	position: relative;
+}
+.bannergoogleplaybtn{
+	float: left;
+	min-width: 230px;
+	height: 70px;
+	border:2px solid #ffffff;
+	background-color: transparent;
+	border-radius: 5px;
+	color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	position: relative;
+}
+.bannerrightiphon{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.bannerrightiphon img{
+	position: absolute;
+	right: 30px;
+	top: 80px;
+}
+.bannerappstorebtn img{
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+.bannergoogleplaybtn img{
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+
+.downloadapplinks{
+	float: left;
+	width: 90%;
+	top: 15px;
+	font-size: 10px;
+	color: #000000;
+	font-family: 'Raleway';
+	font-weight: bold;
+	position: absolute;
+	padding-left: 55px;
+	text-align: center;
+}
+.downloadapplinks span{
+	float: left;
+	width: 100%;
+	font-size: 20px;
+	color: #000000;
+	font-family: 'Montserrat';
+	font-weight: bold;
+}
+
+.bannergoogleplaybtn .downloadapplinks{
+	float: left;
+	width: 90%;
+	top: 15px;
+	font-size: 10px;
+	color: #ffffff;
+	font-family: 'Raleway';
+	font-weight: bold;
+	position: absolute;
+	padding-left: 55px;
+	text-align: center;
+}
+
+.bannergoogleplaybtn .downloadapplinks span{
+	float: left;
+	width: 95%;
+	font-size: 20px;
+	color: #ffffff;
+	font-family: 'Montserrat';
+	font-weight: bold;
+}
+.downloadtheapplinks{
+	float: left;
+	width: 100%;
+	margin-top: 45px;
+}
+.applogocontend{
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.applogocontend img{
+	display: inline-block;
+}
+.sectioncontant{
+	float: left;
+	width: 100%;
+	margin: 70px 0px;
+}
+.promotiontitel{
+	background: url(../storage/images/backgroundwave-image.png) no-repeat 50% 50%;
+	float: left;
+	width: 100%;
+	text-align: center;
+	font-size: 56px;
+	color: #000000;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 100;
+	padding:0px;
+	height: 141px;
+	display: table;
+	position: relative;
+}
+.customecenteriphone img{
+	margin: 0 auto;
+}
+.promotiontiteltext{
+	float: none;
+	width: 100%;
+	text-align: center;
+	font-size: 56px;
+	color: #000000;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 100;
+	display: table-cell;
+	vertical-align: middle;
+	line-height: 65px;
+}
+.promotiontiteltext span{
+	color: #0d8b9d;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+}
+.keypromotioncentermobile{
+	float: left;
+	width: 100%;
+	margin-top: 70px;
+}
+.keyappoptions{
+	float: left;
+	width: 100%;
+	margin-top: 70px;
+	text-align:center;
+}	
+.keyappoptions img{
+	display: inline-block;
+}
+.keyappoptionstitle{
+	float: left;
+	width: 100%;
+	font-size:16px;
+	color: #0d8b9d; 
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+	margin: 20px 0px 15px 0px;
+}
+.keyappoptionstext{
+	float: left;
+	width: 100%;
+	font-size: 16px;
+	color: #5d5858;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+	line-height: 28px;
+}
+.keyscreenshortsbackground{
+	float: left;
+	background: url(../storage/images/keyscreenshorts-background.jpg) no-repeat 50% 50%;
+	background-size:cover;
+	height: 770px;
+	width: 100%;
+	padding: 20px 0px 0px;
+	position: relative;
+}
+.iphonesliderformobile{
+	display: none;
+}
+
+#mobilescreenshortsimg .owl-item{
+	margin-top: 175px;
+}
+
+.keyscreenshortsmobile {
+    position: absolute;
+    right: -166px;
+    top: 17px;
+    width: 580px;
+    /*z-index: 999;*/
+}
+.keyscreenshortsliderpart{
+	position: relative;
+	width: 58%;
+	float: left;
+}
+#mobilescreenshortsimg .item img{
+	max-width: 237px !important;
+}
+.keyscreenshortdetailpart{
+	float: right;
+	/*margin-left: 75px;*/
+	margin-right: 100px;
+	width: 30%;
+}
+.mobilescreenshortstextitle{
+	font-size: 56px;
+	color: #ffffff;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+	float: left;
+	width: 100%;
+	text-align: left;
+}
+.mobilescreenshortstextdetail {
+    float: left;
+    width: 100%;
+    text-align: left;
+    direction: ltr;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 28px;
+    font-family: 'Avenir Next LT Pro';
+    font-weight: 300;
+    margin: 40px 0px;
+}
+
+#mobilescreenshortstext .owl-item{
+	margin-top: 200px;
+}
+
+#mobilescreenshortstext .owl-controls .owl-dots  .owl-dot span{
+	background: #ffffff none repeat scroll 0 0 !important;
+    border: medium none;
+    height: 10px;
+    margin: 5px;
+    width: 10px;
+}
+
+#mobilescreenshortstext .owl-controls .owl-dots  .owl-dot.active span{
+	background: #ffffff none repeat scroll 0 0 !important;
+    border: medium none;
+    height: 20px;
+    margin: 5px;
+    width: 10px;
+    margin-top: -1px;
+}
+
+.owl-controls {
+    float: left;
+    position: relative;
+    width: 100%;
+    z-index: 9999;
+}
+.owl-dots {
+    float: left;
+    position: relative;
+    z-index: 999;
+}
+.owl-carousel .owl-controls .owl-nav .owl-prev, .owl-carousel .owl-controls .owl-nav .owl-next, .owl-carousel .owl-controls .owl-dot{
+	-moz-user-select: none;
+    background-color: transparent;
+    cursor: pointer;
+    float: left;
+}
+
+.owl-dot > span {
+    border: 1px solid;
+    border-radius: 10px;
+    float: left;
+    height: 20px;
+    width: 20px;
+}
+.getkeynow{
+	float: left;
+	width: 100%;
+}
+.getkeynow .promotiontiteltext{
+	float: left;
+}
+.getkeynowslidemobile{
+	float: left;
+	width: 100%;
+	margin: 60px 0px;
+}
+.getkeynowslidemobile img{
+	margin: 0 auto;
+}
+.getkeynowdownloadbtns{
+	float: left;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	text-align: center;
+}
+.getkeynowdownloadbtns .bannerappstorebtn{
+	display: inline-block;
+	float: none;
+	border:2px solid #000000;
+}
+.getkeynowdownloadbtns .bannergoogleplaybtn{
+	float: left;
+	min-width: 210px;
+	height: 70px;
+	border:2px solid #ffffff;
+	background-color: transparent;
+	border-radius: 5px;
+	color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	position: relative;
+}
+.downloadavailableforfree{
+	float: left;
+	display: inline-block;
+	font-size: 16px;
+	width: 100%;
+	text-align: center;
+	color: #000000;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+	margin: 0px;
+}
+.footerbackground{
+	float: left;
+	background: #1c8aa7; /* Old browsers */
+	background: -moz-linear-gradient(top,  #1c8aa7 0%, #1c9aa1 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #1c8aa7 0%,#1c9aa1 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #1c8aa7 0%,#1c9aa1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c8aa7', endColorstr='#1c9aa1',GradientType=0 ); /* IE6-9 */
+    background-size: cover;
+	height: 295px;
+	width: 100%;
+	padding: 50px 0px 0px 0px;
+	position: relative;
+}
+.footersitelogo{
+	float: left;
+	width: 100%;
+}
+.footersitelogo img{
+	margin: 0 auto;
+}
+.footermenuoptions{
+	float: left;
+	width: 100%;
+}
+.footermenus{
+	display: inline-block;
+    float: none;
+    margin: 45px auto 0;
+    text-align: center;
+    width: 100%;
+}
+.footermenus ul{
+	display: inline-block;
+    float: none;
+	width: auto;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+.footermenus ul li {
+	float: left;
+	margin:0px 20px;
+}
+.footermenus ul li a{
+	font-size: 14px;
+	color: #ffffff;
+	text-align: center;
+	width: 100%;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.footercopyrightouter{
+	float: left;
+	width: 100%;
+	height: 55px;
+	display: table;
+	position: absolute;
+	bottom: 0px;
+	background: #148b91; /* Old browsers */
+	background: -moz-linear-gradient(top,  #148b91 0%, #178a8f 26%, #168c91 52%, #168c90 74%, #168c90 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #148b91 0%,#178a8f 26%,#168c91 52%,#168c90 74%,#168c90 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #148b91 0%,#178a8f 26%,#168c91 52%,#168c90 74%,#168c90 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#148b91', endColorstr='#168c90',GradientType=0 ); /* IE6-9 */
+
+}
+.footercopyright{
+	float: none;
+	width: 100%;
+	display: table-cell;
+	vertical-align: middle;
+}
+.footercopyrighttext{
+	float:left;
+	width: 100%;
+	text-align: center;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+	font-size: 14px;
+	color: #ffffff;
+}
+.keyapplogo{
+	border-radius: 35px;
+	-webkit-border-radius: 35px;
+	-moz-border-radius: 35px;
+}
+.responsivescreenshortslider{
+	display: none;
+}
+.webscreenshortslider{
+	display: block;
+}
+.mainmenu-inner{
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2);
+	margin-bottom: 20px;
+}
+.mainmenu-inner .customenavebar-menuoptions li a{
+	color: #0d8b9d !important;
+}
+.mainmenu-inner .customenavebar-menu{
+	margin-top: 16px;
+	margin-bottom: 16px;
+	min-height: auto;
+}
+.mainmenu-inner .customenavebar-menu .navbar-brand{
+	height: auto;
+	padding: 0
+}
+.mainmenu-inner .customeheadermenuside{
+	padding: 0 !important;
+}
+.mainmenu-inner .customeheaderlogoside .navbar-brand img{
+	top: 0;
+}
+.fullwidth-forall{
+	float: left;
+	width: 100%;
+}
+.login-mainheading{
+	float: left;
+	width: 100%;
+	font-size: 40px;
+	color: #0d8b9d;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 200;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 49px;
+	margin-bottom: 35px;
+}
+.login-boxcover{
+	float: left;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 100px;
+}
+.login-boxcoverinner{
+	width: 447px;
+	display: inline-block;
+	-webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+	padding: 40px 30px;
+	text-align: left;
+}
+.inputstyle{
+	height: 45px;
+	border: solid 1px #e8e8e8;
+	padding-right: 15px;
+	padding-left: 15px;
+	box-shadow: none;
+	margin-bottom: 20px;
+	font-family: 'Avenir Next LT Pro';
+	font-size: 14px;
+}
+.input-emailbg{
+	background: url(../storage/images/emailicon.png);
+	background-repeat: no-repeat;
+	background-position: 20px 14px;
+	padding-left: 54px;
+	text-transform: uppercase;
+}
+.input-passwordbg{
+	background: url(../storage/images/passwordicon.png);
+	background-repeat: no-repeat;
+	background-position: 20px 10px;
+	padding-left: 53px;
+	text-transform: uppercase;
+}
+.loging-checkbox{
+	float: left;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.loging-checkbox input{
+	margin-top: 0;
+	vertical-align: top;
+	margin-right: 7px;
+}
+.loging-checkbox label{
+	font-size: 14px;
+	color: #0d8b9d;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+	line-height: 1;
+	cursor: pointer;
+}
+.btn.logingbtn{
+	width: 100%;
+	height: 45px;
+	border: 0;
+	background: #0d8b9d;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+	font-size: 14px;
+	color: #fff;
+	text-transform: uppercase;
+}
+.loging-fbbtn, .loging-fbbtn:hover, .loging-fbbtn:focus{
+	display: inline-block;
+	width: 100%;
+	height: 43px;
+	line-height: 43px;
+	border: solid 1px #2f477a;
+	background: #3b5998;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+	font-size: 14px;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 4px;
+	text-decoration: none;
+	margin-top: 20px;
+}
+.loging-fbbtn img{
+	float: left;
+	margin-right: 58px;
+}
+.login-forgotpass{
+	width: 100%;
+	float: left;
+	text-align: center;
+	padding-top: 16px;
+}
+.login-forgotpass a, .login-forgotpass a:hover{
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+	font-size: 14px;
+	color: #464848;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.login-orcover{
+	width: 100%;
+	float: left;
+	position: relative;
+	text-align: center;
+	margin-top: 20px;
+}
+.login-orline{
+	width: 100%;
+	float: left;
+	position: absolute;
+	top: 18px;
+	left: 0;
+	height: 1px;
+	background: #e5e5e5;
+	z-index: -1;
+}
+.login-ordiv{
+	display: inline-block;
+	width: 36px;
+	height: 36px;
+	font-size: 12px;
+	color: #464848;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+	border: solid 1px #e5e5e5;
+	border-radius: 50px;
+	line-height: 34px;
+	background: #fff;
+}
+.registerbtn{
+	margin-top: 15px;
+}
+.input-fullname{
+	background: url(../storage/images/registericon.png);
+	background-repeat: no-repeat;
+	background-position: 20px 10px;
+	padding-left: 53px;
+	text-transform: uppercase;
+}
+.aboutus-cover{
+	float: left;
+	width: 100%;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.normalcontent{
+	float: left;
+	width: 100%;
+	color: #464646;
+	font-size: 14px;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+.aboutus-picscover{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.aboutus-picscover-img{
+	display: inline-block;
+	width: 200px;
+}
+.aboutus-picscover .aboutus-picscover-img:first-child{	
+	margin-right: 100px;
+}
+.aboutus-picscover-img img{
+	border-radius: 4px;
+	border: 1px solid #e8e8e8;
+}
+.aboutus-picscover-img .name{
+	float: left;
+	width: 100%;
+	color: #464646;
+	font-size: 14px;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 3px;
+	margin-top: 10px;
+}
+.aboutus-picscover-img .post{
+	float: left;
+	width: 100%;
+	color: #464646;
+	font-size: 14px;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: 500;
+	text-align: center;
+}
+.innermain-head{
+	float: left;
+	width: 100%;
+	margin-top: 30px;
+	font-family: "Avenir Next LT Pro";
+    font-size: 36px;
+    font-weight: 200;
+    text-transform: uppercase;
+    padding-bottom: 19px;
+    border-bottom: 1px solid #e8e8e8;
+    color: #0d8b9d;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.contact-contcover{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 90px;
+	margin-bottom: 270px;
+}
+.contactus-boxsocial, .contactus-boxsocial:hover{
+	display: inline-block;
+	text-align: center;	
+	font-size: 16px;
+	color: #5d5858;
+	text-decoration: none;
+	font-family: 'Avenir Next LT Pro';
+	font-weight: normal;
+}
+.contactus-boxsocial span{
+	display: inline-block;
+	width: 100%;
+	margin-top: 18px;
+}
+.contact-contcover .contactus-boxsocial:nth-child(2){
+	margin-right: 150px;
+	margin-left: 150px;
+}
+.bannersubdescriptiontext{
+	color: #ffffff;
+    float: left;
+    font-family: "Avenir Next LT Pro";
+    font-size: 22px;
+    font-weight: 500;
+    margin:10px 0px;
+    width: 100%;
+}
+#success{
+	color: #ffffff;
+    background-color: #1C8C1E;
+    font-size: 17px;
+    text-align: center;
+}
+.downloadapplinks spanyear{
+	font-family: arial;
+
+}
+.downloadapplinks spanavilable{
+	float: left;
+	width: 100%;
+}
+.whitedownloadbtns{
+	float: left;
+	min-width: 200px;
+	height: 70px;
+	border:medium none;
+	background:#ffffff;
+	color: #000000;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	margin-right: 20px;
+	position: relative;
+}
+.whitedownloadbtns img{
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+.getkeynowdownloadbtns .whitedownloadbtns{
+	display: inline-block;
+	float: none;
+	border:2px solid #000000;
+}
+.whitedownloadbtns .downloadapplinks{
+	margin-top: 6px;
+	position: absolute !important;
+}
+
+.downloadbtnsinwhite{
+   float: left;
+   width: 100%;
+   margin: 50px 0px;
+   text-align: center;
+}
+.downloadbtnsinwhite .bannergoogleplaybtn {
+	background: #ffffff;
+    min-width: 230px;
+    height: 70px;
+    border: 2px solid #000000;
+    background-color: transparent;
+    border-radius: 5px;
+    color: #FFF;
+    position: relative;
+    float: none;
+    padding: 0px;
+    margin-right: 20px;
+}
+.downloadbtnsinwhite .bannergoogleplaybtn .downloadapplinks{
+	float: left;
+	width: 90%;
+	top: 15px;
+	font-size: 10px;
+	color: #000000;
+	font-family: "Raleway";
+	font-weight: bold;
+	position: absolute;
+	padding-left: 55px;
+	text-align: center;
+}
+.downloadbtnsinwhite .bannergoogleplaybtn .downloadapplinks span {
+    float: left;
+    width: 95%;
+    font-size: 20px;
+    color: #000000;
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+.downloadtheapplinks .bannergoogleplaybtn{
+	margin-right: 20px;
+	padding: 0px;
+}
+.bgwhite{
+	background: #ffffff;
+}
+.downloadtheapplinks .bgwhite .downloadapplinks{
+	color: #000000
+}
+.downloadtheapplinks .bgwhite .downloadapplinks span{
+	color: #000000
+}
